@@ -4,7 +4,7 @@
 
 **PhiShield AI** is an advanced, human-centric phishing detection system that analyzes both the threat level of an email and the specific vulnerability of the user. By combining heuristic message scanning with behavioral profiling, PhiShield delivers highly personalized risk assessments and actionable countermeasures.
 
-[**Live Demo (phishieldai.vercel.app)**](https://phishieldai.vercel.app){:target="_blank"}
+[**Live Demo (phishieldai.vercel.app)**](https://phishieldai.vercel.app)
 
 ---
 
